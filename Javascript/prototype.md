@@ -5,7 +5,7 @@
 - prototype에 저장된 속성들은 생성자를 통해 객체가 만들어질 때 그 객체에 연결될 수 있다.
 - 이 때 생성하기 위해 사용된 객체원형을 prototype이라 한다.
 
-##자바스크립트의 Prototype
+## 자바스크립트의 Prototype
 ```javascript
 function Ultra(){}
 Ultra.prototype.ultraProp = true;
@@ -23,7 +23,7 @@ console.log(o.ultraProp);
 - 주의할 점은 new 생성자 함수를 사용하지 않으면 상속을 받을 수 없고 심지어 상속받은 객체의 prototype도 바뀌게 된다
 - ex) Super.prototype = Ultra.prototype (X)
 
-##reference
+## reference
 https://opentutorials.org/course/743/6573
 
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
