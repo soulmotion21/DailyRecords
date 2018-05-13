@@ -1,2 +1,3 @@
 # DailyRecords
-My daily records
+My personal daily records of learned any knowledges.
+
