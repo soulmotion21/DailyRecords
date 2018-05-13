@@ -1,4 +1,4 @@
-#Javascript Prototype
+# Javascript Prototype
 
 - prototype이란 번역하면 '원형'과 같은 의미이다.
 - 자바스크립트에선 객체의 원형을 의미하는 property로 모든 객체는 이 property를 가질 수 있다.
