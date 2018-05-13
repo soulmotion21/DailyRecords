@@ -1,6 +1,6 @@
 ## OS X Sierra 부터 Adobe CS 5.5 설치 안될 때
 
-정식 라이센스를 가지고 있는 Adobe CS 5.5가 시에라 부터 지원을 하지 않는다. 가능한 정식 버전을 계속 쓰고 싶어 검색해 보니 해결책이 있었다.
+정식 라이센스를 가지고 있는 Adobe CS 5.5가 시에라 부터 지원을 하지 않는다. 가능한 정식 버전을 계속 쓰고 싶어 검색해 보니 해결책이 있었다. 정확히 말하면 해결책이라기 보단 강제설치이다.
 
 1. Right click on the app(install) and go to 'Show Package Contents'  
 
