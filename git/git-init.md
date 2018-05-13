@@ -1,2 +1,0 @@
-# DailyRecords
-My daily records
