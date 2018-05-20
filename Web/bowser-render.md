@@ -18,9 +18,8 @@
 
 9. 사용자에게 보여짐 (display) 
 
-10. 페이지의 DOM변경이 일어나면 painting시 reflow가 발생
+10. 페이지의 DOM변경이 일어나면 painting시 reflow가 발생(이 비용절감을 위해 현대 웹 앱에서는 Virtual DOM을 활용함 )
 
-   이 비용절감을 위해 현대 웹 앱에서는 Virtual DOM을 활용함 
 
 
 
